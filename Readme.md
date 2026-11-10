@@ -141,11 +141,11 @@ sweety-tracker/
 ```env
 PORT=5000
 DB_USER=postgres
-DB_PASSWORD=your_password_here
+DB_PASSWORD=Raju2003
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=sweety_db
-JWT_SECRET=your_jwt_secret_here
+JWT_SECRET=super_secret_key_sweety_123
 ```
 
 ---
